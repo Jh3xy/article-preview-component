@@ -128,6 +128,7 @@ img{
 }
 .social-links-wrap{
  display: flex;
+ align-items: center;
  gap: 8px;
 }
 .social-links-wrap span{
